@@ -4,7 +4,9 @@
 **Q1. Quelle est l’utilisation du « Library cache » dans Oracle?**
 
 A. Contient des informations sur l’utilisateur, telles que des privilèges d’utilisateur
+
 **B. Utilisé pour stocker le shared SQL**
+
 C. Contient les modifications apportées à la base de données  
 D. Toutes les réponses sont vraies
 
