@@ -216,7 +216,7 @@ D. Référentiel AWR
 **E. V$SQL_PLAN**  
 **F. SQL*Plus AUTOTRACE**
 
-***Reponse: E,F***
+***Reponse: A,E,F***
 
 **Q26. Laquelle des méthodes d’affichage des plan d’exécution suivantes, n’exécute pas la requête ?**  
 **A. EXPLAIN PLAN**  
